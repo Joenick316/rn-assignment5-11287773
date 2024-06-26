@@ -1,4 +1,3 @@
-![2d4679c3-8504-4309-95bd-58aeff00787d](https://github.com/Joenick316/rn-assignment5-11287773/assets/152196135/bb72125e-f368-4807-b18b-6a095438a9e2)Key Components and Structure
 App Setup:
 
 The main entry point is App.js.
