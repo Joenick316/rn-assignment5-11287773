@@ -20,7 +20,7 @@ const HomeScreen = () => {
             Welcome back,
           </Text>
           <Text style={[styles.username, { color: currentTheme.text }]}>
-            Melissa Otoo
+            Asante Gideon Kwadwo
           </Text>
         </View>
         <View

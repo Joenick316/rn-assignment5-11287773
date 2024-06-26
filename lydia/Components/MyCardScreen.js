@@ -1,12 +1,12 @@
-// src/screens/StatisticsScreen.js
+// src/screens/MyCardsScreen.js
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
-const StatisticsScreen = () => {
+const MyCardsScreen = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Statistics</Text>
-      {/* Add the statistics UI elements based on the design */}
+      <Text style={styles.title}>My Cards</Text>
+      {/* Add the cards UI elements based on the design */}
     </View>
   );
 };
@@ -23,4 +23,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default StatisticsScreen;
+export default MyCardsScreen;
